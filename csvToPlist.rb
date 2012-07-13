@@ -1,4 +1,4 @@
-#Converts csv files to plist with weight as 
+#Converts csv files to plist 
 
 require 'csv'
 require 'builder'
